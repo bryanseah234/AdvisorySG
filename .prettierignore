@@ -2,3 +2,5 @@
 assets/built/
 assets/css/vendor/
 assets/js/lib/
+.replit
+replit.nix
